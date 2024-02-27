@@ -11,3 +11,7 @@
 hello = "Hello, world!"
 print(hello)
 ```
+
+- [ ] Realize the inner panda
+- [ ] Harness the inner panda
+- [ ] Become the panda
